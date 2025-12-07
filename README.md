@@ -1,7 +1,7 @@
 # SmartDocs – IA para Consulta de Documentos
 
 SmartDocs é uma aplicação full-stack que permite fazer perguntas sobre documentos utilizando IA + embeddings + similaridade vetorial.
-O backend em .NET faz o chunking/indexação dos documentos e o frontend em Angular oferece uma interface simples para interação com o chat.
+O backend em .NET faz o chunking/indexação dos documentos.
 
 🚀 Tecnologias Utilizadas
 - Backend (.NET 8)
